@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "BitaCoraMar",
+    "slug": "bitacoramar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android"],
+    "userInterfaceStyle": "light",
+    "jsEngine": "hermes",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
